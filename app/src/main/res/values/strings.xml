@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="building_better">Building Better Workplaces</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_a_unique">Create a unique emotional story that describes better than words</string>
+    <string name="monday">Monday</string>
+    <string name="october">25 October</string>
+    <string name="Surf">Hi Surf.</string>
+    <string name="predning">5 Tasks are predning</string>
+    <string name="Information">Information Architecture</string>
+    <string name="Saber"><![CDATA[Saber & Oro]]></string>
+    <string name="monthly_preview">Monthly Preview</string>
+</resources>
